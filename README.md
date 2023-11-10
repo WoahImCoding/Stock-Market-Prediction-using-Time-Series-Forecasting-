@@ -2,7 +2,6 @@
 Prediction using AI/ML 
 Stock Prediction Using Time-Series-Forecasting
 
-Hello! Welcome to the WiDS2022 Project "Stock Market Prediction using Time Series Forecasting"
 
 Project Introduction
 Our journey of stock market analysis will begin all the way from learning the theoretical basics of python and machine learning to the hands on application of the knowledge to generate useful price predictions. Stock Price is a time stamped data which can be subject to autocorrelation, seasonality and stationarity. Time Series data can be modeled using techniques like moving average, exponential smoothing, ARIMA, etc. In the duration of the project, we shall better understand the jargon used above and then implement the ARIMA model to predict and test our model.

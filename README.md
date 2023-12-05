@@ -39,9 +39,11 @@ Machine Learning is the field of study that gives computers the capability to le
 
 ## Types of machine learning problems
 *Supervised learning*:
+
 The model or algorithm is presented with example inputs and their desired outputs and then finding patterns and connections between the input and the output. The goal is to learn a general rule that maps inputs to outputs. The training process continues until the model achieves the desired level of accuracy on the training data.Some real-life examples are: Image Classification: You train with images/labels. Then in the future you give a new image expecting that the computer will recognize the new object. Market Prediction/Regression: You train the computer with historical market data and ask the computer to predict the new price in the future.
 
 *Unsupervised learning*:
+
 Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. In unsupervised learning algorithms, classification or categorization is not included in the observations.
 
 ## Different Machine Learning Models

@@ -1,14 +1,15 @@
 # Stock-Market-Prediction-using-Time-Series-Forecasting
-Prediction using AI/ML 
+Prediction using AI/ML
+
 Hello! Welcome to the WiDS2023 Project "Stock Market Prediction using Time Series Forecasting"
 
 
-# Project Introduction
+## Project Introduction
 We're embarking on a stock market analysis journey, starting from the fundamental concepts of Python and machine learning, and progressing to practical applications for generating insightful stock price predictions. Stock prices, being time-stamped data, are influenced by factors like autocorrelation, seasonality, and stationarity. Time series data analysis involves techniques such as moving averages, exponential smoothing, and ARIMA. Throughout this project, we'll demystify these terms and apply the ARIMA model to make and test our predictions.
 
 Googling is the number one friend of any programmer. Although we shall have a WhatsApp Group for doubts and discussions yet I'll encourage you to have atleast 20 tabs worth of search before asking for help (PS - Everyone has a single lifetime so don't waste ages ofc!)
 
-# Tentative Schedule
+## Tentative Schedule
 Week 1 - Setting up Jupyter Notebook and learn the basics of Python Language.
 
 Week 2 - Learning the theoretical basis of Machine Learning in general and Time Series Data in particular.
@@ -19,7 +20,7 @@ Week 4 - Complete the model implementation and learn about good coding practices
 
 Week 5 - Debugging and Finalization of project along with discussions on further learnings.
 
-# Week 1
+## Week 1
 [Install Anaconda](https://docs.anaconda.com/anaconda/install/) - Anaconda is one of the most beloved tool for data scientist because it comes packed with a collection of over 7,500+ open-source python/R packages.
 
 Data Science/Analytics can be performed with multiple languages like R/Matlab/Python. We shall stick to python in this project since it's a beginner friendly language and is widely used globally. Here are some good resources to learn python for data science purpose:
@@ -32,7 +33,7 @@ Data Science/Analytics can be performed with multiple languages like R/Matlab/Py
 
 *A basic understanding of datatypes, logical expressions, loops, lists and functions is enough to begin with*
 
-# Week 2
+## Week 2
 And Finally, we'll start with a basic introduction of Machine Learning
 
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect. From translation apps to autonomous vehicles, all powers with Machine Learning. It offers a way to solve problems and answer complex questions. It is basically a process of training a piece of software called an algorithm or model, to make useful predictions from data
@@ -133,7 +134,7 @@ Testing Stage : Forecasting models run on testing data with known results — a 
 
 Deployment Stage : Data transformation and visualization — to integrate the resulting forecasting model(s) with the production at hand, the gathered data must be conveniently transformed and visualized for further processing. Forecasting models revision and improvements — time series forecasting is always iterative, meaning that multiple ongoing revisions and optimizations must be implemented to continuously improve the forecasting performance.
 
-# Week 3-4 ARIMA Model Implementation: Final Stretch
+## Week 3-4 ARIMA Model Implementation: Final Stretch
 Watch The First 6 videos here : [playlist](https://youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) to summarise the learnings about the components of ARIMA model i.e AR(Auto Regression) + I (Differencing Step) + MA (Moving Average) and get help with implementation.
 
 (Optional)For Deeper Understanding : [video](https://youtu.be/Y2khrpVo6qI)

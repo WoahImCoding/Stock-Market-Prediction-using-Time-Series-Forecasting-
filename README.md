@@ -1,7 +1,7 @@
 # Stock-Price-Prediction
 Prediction using AI/ML
 
-Hello! Welcome to the WiDS2023 Project "Stock Market Prediction using Time Series Forecasting"
+Hello! Welcome to the WiDS2023 Project "Stock Price Prediction"
 
 
 ## Project Introduction

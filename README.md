@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-using-Time-Series-Forecasting
+# Stock-Price-Prediction-using-Time-Series-Forecasting
 Prediction using AI/ML
 
 Hello! Welcome to the WiDS2023 Project "Stock Market Prediction using Time Series Forecasting"

@@ -134,7 +134,6 @@ Testing Stage : Forecasting models run on testing data with known results — a 
 
 Deployment Stage : Data transformation and visualization — to integrate the resulting forecasting model(s) with the production at hand, the gathered data must be conveniently transformed and visualized for further processing. Forecasting models revision and improvements — time series forecasting is always iterative, meaning that multiple ongoing revisions and optimizations must be implemented to continuously improve the forecasting performance.
 
-# Stock-Prices-Prediction-Using-ARIMA-Model
 ## Week 3-4 ARIMA Model Implementation: Final Stretch
 Watch The First 6 videos here : [playlist](https://youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) to summarise the learnings about the components of ARIMA model i.e AR(Auto Regression) + I (Differencing Step) + MA (Moving Average) and get help with implementation.
 
